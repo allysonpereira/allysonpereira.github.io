@@ -8,6 +8,8 @@ As a second-year Computer Systems Technician Software Developer student at Mohaw
 
 ## View
 
+<img src="assets/images/webpagescreenshot.png">
+
 
 
 
